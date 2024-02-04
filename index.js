@@ -16,6 +16,7 @@ app.use(express.json());
 app.use(express.urlencoded({ extended: false }));
 
 // apis
+// app.use("/api/auth", )
 // app.use("/api/users", )
 // app.use("/api/projects", )
 // app.use("/api/tasks", )
